@@ -52,6 +52,7 @@ header, .first-info, .second-info, .third-info, .fourth-info, footer{
 .top-links > a {
   width: auto;
   display: inline-block;
+  color: #828282;
   vertical-align: top;
 }
 
@@ -61,7 +62,7 @@ header, .first-info, .second-info, .third-info, .fourth-info, footer{
   display: inline-block;
 }
 
-.active{
+.top-links>.active{
   color: black;
 }
 
